@@ -1,0 +1,15 @@
+{
+  "name": "apolloserver_practice",
+  "version": "1.0.0",
+  "description": "practice using apollo server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joon Jang",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.8.1",
+    "graphql": "^14.4.2"
+  }
+}
