@@ -9,7 +9,7 @@
   "author": "Joon Jang",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.14.2",
     "graphql": "^14.4.2"
   }
 }
